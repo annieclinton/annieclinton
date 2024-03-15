@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="header-blue.png" alt="Annie Clinton banner" style="width: 100%; max-width: 800px; height: auto;">
+</p>
 <h1 align="center">Hi 👋, I'm Annie</h1>
 <h3 align="center">A passionate full-stack software engineer from Oakland, CA</h3>
 

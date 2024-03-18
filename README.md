@@ -2,7 +2,7 @@
   <img src="header-blue.png" alt="Annie Clinton banner" style="width: 100%; max-width: 800px; height: auto;">
 </p>
 <h1 align="center">Hi 👋, I'm Annie</h1>
-<h3 align="center">A passionate full-stack software engineer from Oakland, CA</h3>
+<h3 align="center">A creative full-stack software engineer from Oakland, CA, with 10+ years experience in the design industry</h3>
 
 - 🔭 I’m currently working on **a website for a local Educational Psychology Testing Company**
 

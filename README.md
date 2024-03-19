@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Annie</h1>
 <h3 align="center">A creative full-stack software engineer from Oakland, CA,<br> with 10+ years of experience in the design industry</h3>
 
-- 🔭 I’m currently working on **a website for a local Educational Psychology Testing Company and my 100 hours portfolio project**
+- 🔭 I’m currently working on **a website for a local Educational Psychology Testing company and my 100 hours portfolio project**
 
 - 👨‍💻 More projects are available at [https://annieclinton.netlify.app/](https://annieclinton.netlify.app/)
 

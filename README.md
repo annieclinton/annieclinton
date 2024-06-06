@@ -35,7 +35,7 @@
         <p><strong>Javascript, CSS & HTML</strong> - Play War against the computer!</p>
     </td>
         <td width="50%" valign="top">
-      <h3 align="center">Play War</h3>
+      <h3 align="center">Get Cat Photos</h3>
         <br />
         <a target="_blank" href="get-cat-photos.netlify.app/">
             <img src="catPhotosResized.jpg" width="100%" alt="Play War website"/>
